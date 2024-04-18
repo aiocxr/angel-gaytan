@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<p>what's up</p>
 
 - 🔭 I’m currently working on a HTML/CSS/JAVASCRIPT project
 - 🌱 I’m currently learning Javascript
